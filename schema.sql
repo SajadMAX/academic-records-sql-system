@@ -1,7 +1,3 @@
-
-
-
-
 -- Create Students Table
 CREATE TABLE students (
     "id" INTEGER PRIMARY KEY AUTOINCREMENT,
