@@ -1,8 +1,3 @@
-# Design Document
-
-By Sajad Shirmahd
-
-Video overview: <URL HERE>
 
 ## Scope
 
